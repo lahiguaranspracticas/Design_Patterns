@@ -1,0 +1,2 @@
+flyweight.Flyweight
+flyweight.Gazillion
